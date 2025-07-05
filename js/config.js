@@ -110,9 +110,9 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    kzy: {
-        api: 'https://www.ckzy1.com',
-        name: 'CK资源'
+    aosika: {
+        api: 'https://aosikazy.com/api.php/provide/vod',
+        name: '奥斯卡资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
